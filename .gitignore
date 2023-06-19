@@ -1,0 +1,29 @@
+# Unity generated
+[Ll]ibrary
+[Tt]emp
+[Oo]bj
+[Bb]uild
+[Bb]uilds
+[Ll]ogs
+[Uu]ser[Ss]ettings
+
+# VSCode generated
+.vscode
+
+# Gradle generated
+gradle
+.gradle
+build
+
+# Mac generated
+.DS_Store
+
+# Rider generated
+.idea
+
+# Other
+[Ss]creenshots
+.gif
+.jpg
+.png
+.unitypackage
